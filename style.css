@@ -509,16 +509,16 @@ padding-right:25px;
 
 .hero{
 
-min-height:40vh;
+min-height:32vh;
 
 }
 
 .hero img{
 
-
-    width:115%;
+    width:120%;
     max-width:none;
-    margin-left:-7.5%;
+    margin-left:-10%;
+    display:block;
 
 }
 
