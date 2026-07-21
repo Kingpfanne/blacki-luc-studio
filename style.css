@@ -515,9 +515,10 @@ min-height:32vh;
 
 .hero img{
 
-width:100%;
 
-object-fit:cover;
+    width:115%;
+    max-width:none;
+    margin-left:-7.5%;
 
 }
 
