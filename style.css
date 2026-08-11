@@ -186,6 +186,42 @@ p{
 
 }
 
+.whatsapp{
+
+    margin-top:45px;
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:15px;
+
+    color:white;
+
+    text-decoration:none;
+
+    border:1px solid var(--border);
+
+    border-radius:14px;
+
+    padding:18px 28px;
+
+    transition:var(--transition);
+
+    font-size:1rem;
+
+}
+
+.whatsapp:hover{
+
+    transform:translateY(-5px);
+
+    border-color:#777;
+
+    box-shadow:0 0 30px rgba(255,255,255,.08);
+
+}
+
 /* ===================== HINWEIS ===================== */
 
 .notice{
